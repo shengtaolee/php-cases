@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Test\\SimpleLockTest::testLock":4,"Test\\SimpleLockTest::test":4},"times":{"Test\\SimpleLockTest::testLock":0.035,"Test\\BloomFilterTest::test":0.001,"Test\\BloomFilterTest::testAdd1":0,"Test\\BloomFilterTest::testAdd2":0.088,"Test\\SimpleLockTest::test":0.001}}
